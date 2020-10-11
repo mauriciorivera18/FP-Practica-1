@@ -1,2 +1,2 @@
 # PracticaBrigada7
- Repositorio de la brigada 7 del grupo 9 de Fundamentos de Programación.
+Reporte de la práctica en la rama 'Actividad_practica'.
